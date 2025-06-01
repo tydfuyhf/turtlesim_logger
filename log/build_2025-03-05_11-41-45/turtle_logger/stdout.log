@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/turtle_logger/turtle_logger.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtle_logger/turtle_logger.egg-info/dependency_links.txt
+writing entry points to ../../build/turtle_logger/turtle_logger.egg-info/entry_points.txt
+writing requirements to ../../build/turtle_logger/turtle_logger.egg-info/requires.txt
+writing top-level names to ../../build/turtle_logger/turtle_logger.egg-info/top_level.txt
+reading manifest file '../../build/turtle_logger/turtle_logger.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtle_logger/turtle_logger.egg-info/SOURCES.txt'
+running build
+running build_py
+copying turtle_logger/__init__.py -> /home/park/log_ws/build/turtle_logger/build/lib/turtle_logger
+running install
+running install_lib
+running install_data
+copying resource/turtle_logger -> /home/park/log_ws/install/turtle_logger/share/ament_index/resource_index/packages
+copying package.xml -> /home/park/log_ws/install/turtle_logger/share/turtle_logger
+running install_egg_info
+removing '/home/park/log_ws/install/turtle_logger/lib/python3.10/site-packages/turtle_logger-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/turtle_logger/turtle_logger.egg-info to /home/park/log_ws/install/turtle_logger/lib/python3.10/site-packages/turtle_logger-0.0.0-py3.10.egg-info
+running install_scripts
+Installing turtle_logger script to /home/park/log_ws/install/turtle_logger/lib/turtle_logger
+writing list of installed files to '/home/park/log_ws/build/turtle_logger/install.log'

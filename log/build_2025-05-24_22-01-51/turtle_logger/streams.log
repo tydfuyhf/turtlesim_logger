@@ -1,0 +1,19 @@
+[0.884s] Invoking command in '/home/park/log_ws/build/turtle_logger': PYTHONPATH=/home/park/log_ws/build/turtle_logger/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/park/log_ws/install/turtle_logger/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/park/log_ws/build/turtle_logger/build --no-deps symlink_data --force
+[1.237s] running develop
+[1.470s] running egg_info
+[1.487s] writing turtle_logger.egg-info/PKG-INFO
+[1.488s] writing dependency_links to turtle_logger.egg-info/dependency_links.txt
+[1.488s] writing entry points to turtle_logger.egg-info/entry_points.txt
+[1.488s] writing requirements to turtle_logger.egg-info/requires.txt
+[1.488s] writing top-level names to turtle_logger.egg-info/top_level.txt
+[1.522s] reading manifest file 'turtle_logger.egg-info/SOURCES.txt'
+[1.524s] writing manifest file 'turtle_logger.egg-info/SOURCES.txt'
+[1.542s] running build_ext
+[1.543s] Creating /home/park/log_ws/install/turtle_logger/lib/python3.10/site-packages/turtle-logger.egg-link (link to .)
+[1.544s] Installing turtle_logger script to /home/park/log_ws/install/turtle_logger/lib/turtle_logger
+[1.544s] 
+[1.544s] Installed /home/park/log_ws/build/turtle_logger
+[1.544s] running symlink_data
+[1.544s] symbolically linking /home/park/log_ws/build/turtle_logger/resource/turtle_logger -> /home/park/log_ws/install/turtle_logger/share/ament_index/resource_index/packages
+[1.544s] symbolically linking /home/park/log_ws/build/turtle_logger/package.xml -> /home/park/log_ws/install/turtle_logger/share/turtle_logger
+[1.575s] Invoked command in '/home/park/log_ws/build/turtle_logger' returned '0': PYTHONPATH=/home/park/log_ws/build/turtle_logger/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/park/log_ws/install/turtle_logger/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/park/log_ws/build/turtle_logger/build --no-deps symlink_data --force

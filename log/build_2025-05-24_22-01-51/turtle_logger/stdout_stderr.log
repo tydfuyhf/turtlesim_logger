@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing turtle_logger.egg-info/PKG-INFO
+writing dependency_links to turtle_logger.egg-info/dependency_links.txt
+writing entry points to turtle_logger.egg-info/entry_points.txt
+writing requirements to turtle_logger.egg-info/requires.txt
+writing top-level names to turtle_logger.egg-info/top_level.txt
+reading manifest file 'turtle_logger.egg-info/SOURCES.txt'
+writing manifest file 'turtle_logger.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/park/log_ws/install/turtle_logger/lib/python3.10/site-packages/turtle-logger.egg-link (link to .)
+Installing turtle_logger script to /home/park/log_ws/install/turtle_logger/lib/turtle_logger
+
+Installed /home/park/log_ws/build/turtle_logger
+running symlink_data
+symbolically linking /home/park/log_ws/build/turtle_logger/resource/turtle_logger -> /home/park/log_ws/install/turtle_logger/share/ament_index/resource_index/packages
+symbolically linking /home/park/log_ws/build/turtle_logger/package.xml -> /home/park/log_ws/install/turtle_logger/share/turtle_logger

@@ -1,0 +1,27 @@
+[0.811s] Invoking command in '/home/park/log_ws/src/turtle_logger': PYTHONPATH=/home/park/log_ws/build/turtle_logger/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/park/log_ws/install/turtle_logger/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_logger build --build-base /home/park/log_ws/build/turtle_logger/build install --record /home/park/log_ws/build/turtle_logger/install.log --single-version-externally-managed install_data
+[1.087s] running egg_info
+[1.103s] writing ../../build/turtle_logger/turtle_logger.egg-info/PKG-INFO
+[1.112s] writing dependency_links to ../../build/turtle_logger/turtle_logger.egg-info/dependency_links.txt
+[1.112s] writing entry points to ../../build/turtle_logger/turtle_logger.egg-info/entry_points.txt
+[1.112s] writing requirements to ../../build/turtle_logger/turtle_logger.egg-info/requires.txt
+[1.113s] writing top-level names to ../../build/turtle_logger/turtle_logger.egg-info/top_level.txt
+[1.148s] reading manifest file '../../build/turtle_logger/turtle_logger.egg-info/SOURCES.txt'
+[1.149s] writing manifest file '../../build/turtle_logger/turtle_logger.egg-info/SOURCES.txt'
+[1.149s] running build
+[1.149s] running build_py
+[1.150s] copying turtle_logger/turtle_logger.py -> /home/park/log_ws/build/turtle_logger/build/lib/turtle_logger
+[1.150s] copying turtle_logger/__init__.py -> /home/park/log_ws/build/turtle_logger/build/lib/turtle_logger
+[1.151s] running install
+[1.156s] running install_lib
+[1.172s] copying /home/park/log_ws/build/turtle_logger/build/lib/turtle_logger/turtle_logger.py -> /home/park/log_ws/install/turtle_logger/lib/python3.10/site-packages/turtle_logger
+[1.173s] byte-compiling /home/park/log_ws/install/turtle_logger/lib/python3.10/site-packages/turtle_logger/turtle_logger.py to turtle_logger.cpython-310.pyc
+[1.174s] running install_data
+[1.175s] copying resource/turtle_logger -> /home/park/log_ws/install/turtle_logger/share/ament_index/resource_index/packages
+[1.175s] copying package.xml -> /home/park/log_ws/install/turtle_logger/share/turtle_logger
+[1.175s] running install_egg_info
+[1.192s] removing '/home/park/log_ws/install/turtle_logger/lib/python3.10/site-packages/turtle_logger-0.0.0-py3.10.egg-info' (and everything under it)
+[1.192s] Copying ../../build/turtle_logger/turtle_logger.egg-info to /home/park/log_ws/install/turtle_logger/lib/python3.10/site-packages/turtle_logger-0.0.0-py3.10.egg-info
+[1.193s] running install_scripts
+[1.333s] Installing turtle_logger script to /home/park/log_ws/install/turtle_logger/lib/turtle_logger
+[1.334s] writing list of installed files to '/home/park/log_ws/build/turtle_logger/install.log'
+[1.361s] Invoked command in '/home/park/log_ws/src/turtle_logger' returned '0': PYTHONPATH=/home/park/log_ws/build/turtle_logger/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/park/log_ws/install/turtle_logger/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_logger build --build-base /home/park/log_ws/build/turtle_logger/build install --record /home/park/log_ws/build/turtle_logger/install.log --single-version-externally-managed install_data

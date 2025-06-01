@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: turtle_logger
+Version: 0.0.0
+Summary: TODO: Package description
+Maintainer: park
+Maintainer-email: park@todo.todo
+License: TODO: License declaration
+Requires-Dist: setuptools
+Requires-Dist: rclpy
+Requires-Dist: geometry_msgs
+Requires-Dist: turtlesim

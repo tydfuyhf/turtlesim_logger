@@ -1,0 +1,4 @@
+setuptools
+rclpy
+geometry_msgs
+turtlesim

@@ -1,0 +1,2 @@
+[console_scripts]
+turtle_logger = turtle_logger.turtle_logger:main
